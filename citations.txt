@@ -1,0 +1,450 @@
+@inproceedings{becattini2016indexing,
+  title={Indexing ensembles of exemplar-svms with rejecting taxonomies},
+  author={Becattini, Federico and Seidenari, Lorenzo and Del Bimbo, Alberto},
+  booktitle={2016 14th International Workshop on Content-Based Multimedia Indexing (CBMI)},
+  pages={1--6},
+  year={2016},
+  organization={IEEE}
+}
+
+@inproceedings{cuffaro2016segmentation,
+  title={Segmentation free object discovery in video},
+  author={Cuffaro, Giovanni and Becattini, Federico and Baecchi, Claudio and Seidenari, Lorenzo and Del Bimbo, Alberto},
+  booktitle={Computer Vision--ECCV 2016 Workshops: Amsterdam, The Netherlands, October 8-10 and 15-16, 2016, Proceedings, Part III 14},
+  pages={25--31},
+  year={2016},
+  organization={Springer International Publishing}
+}
+
+@inproceedings{becattini2016imaging,
+  title={Imaging novecento. a mobile app for automatic recognition of artworks and transfer of artistic styles},
+  author={Becattini, Federico and Ferracani, Andrea and Landucci, Lea and Pezzatini, Daniele and Uricchio, Tiberio and Bimbo, Alberto Del},
+  booktitle={Euro-Mediterranean Conference},
+  pages={781--791},
+  year={2016},
+  organization={Springer, Cham}
+}
+
+@article{becattini2020done,
+  title={Am I done? Predicting action progress in videos},
+  author={Becattini, Federico and Uricchio, Tiberio and Seidenari, Lorenzo and Ballan, Lamberto and Bimbo, Alberto Del},
+  journal={ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)},
+  volume={16},
+  number={4},
+  pages={1--24},
+  year={2020},
+  publisher={ACM New York, NY, USA}
+}
+
+@article{becattini2017indexing,
+  title={Indexing quantized ensembles of exemplar-SVMs with rejecting taxonomies},
+  author={Becattini, Federico and Seidenari, Lorenzo and Del Bimbo, Alberto},
+  journal={Multimedia Tools and Applications},
+  volume={76},
+  pages={22647--22668},
+  year={2017},
+  publisher={Springer US}
+}
+
+@inproceedings{berlincioni2019road,
+  title={Road layout understanding by generative adversarial inpainting},
+  author={Berlincioni, Lorenzo and Becattini, Federico and Galteri, Leonardo and Seidenari, Lorenzo and Bimbo, Alberto Del},
+  booktitle={Inpainting and Denoising Challenges},
+  pages={111--128},
+  year={2019},
+  organization={Springer International Publishing}
+}
+
+@inproceedings{becattini2019vehicle,
+  title={Vehicle Trajectories from Unlabeled Data through Iterative Plane Registration},
+  author={Becattini, Federico and Seidenari, Lorenzo and Berlincioni, Lorenzo and Galteri, Leonardo and Del Bimbo, Alberto},
+  booktitle={International Conference on Image Analysis and Processing},
+  year={2019}
+}
+
+@inproceedings{becattini2019neuronunityintegration2,
+  title={NeuronUnityIntegration2. 0. A Unity Based Application for Motion Capture and Gesture Recognition},
+  author={Becattini, Federico and Ferracani, Andrea and Principi, Filippo and Ghianni, Marioemanuele and Del Bimbo, Alberto},
+  booktitle={Proceedings of the 27th ACM International Conference on Multimedia},
+  pages={2199--2201},
+  year={2019}
+}
+
+@article{piccardi2018voice,
+  title={Voice Onset Time Enhanced User System (VOTEUS): a web graphic interface for the analysis of plosives’ release phases},
+  author={Piccardi, Duccio and Becattini, Federico},
+  journal={Book series Studi AISV},
+  volume={4},
+  pages={275--291},
+  year={2018}
+}
+
+@inproceedings{bongini2020visual,
+  title={Visual question answering for cultural heritage},
+  author={Bongini, Pietro and Becattini, Federico and Bagdanov, Andrew D and Del Bimbo, Alberto},
+  booktitle={IOP Conference Series: Materials Science and Engineering},
+  volume={949},
+  number={1},
+  pages={012074},
+  year={2020},
+  organization={IOP Publishing}
+}
+
+@inproceedings{marchetti2020mantra,
+  title={Mantra: Memory augmented networks for multiple trajectory prediction},
+  author={Marchetti, Francesco and Becattini, Federico and Seidenari, Lorenzo and Bimbo, Alberto Del},
+  booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
+  pages={7143--7152},
+  year={2020}
+}
+
+@inproceedings{cultrera2020explaining,
+  title={Explaining autonomous driving by learning end-to-end visual attention},
+  author={Cultrera, Luca and Seidenari, Lorenzo and Becattini, Federico and Pala, Pietro and Del Bimbo, Alberto},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops},
+  pages={340--341},
+  year={2020}
+}
+
+@article{marchetti2020multiple,
+  title={Multiple Trajectory Prediction of Moving Agents with Memory Augmented Networks},
+  author={Marchetti, Francesco and Becattini, Federico and Seidenari, Lorenzo and Del Bimbo, Alberto},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  number={01},
+  pages={1--1},
+  year={2020},
+  publisher={IEEE Computer Society}
+}
+
+@inproceedings{berlincioni2021multiple,
+  title={Multiple future prediction leveraging synthetic trajectories},
+  author={Berlincioni, Lorenzo and Becattini, Federico and Seidenari, Lorenzo and Del Bimbo, Alberto},
+  booktitle={2020 25th International Conference on Pattern Recognition (ICPR)},
+  pages={6081--6088},
+  year={2021},
+  organization={IEEE}
+}
+
+@inproceedings{innocenti2021temporal,
+  title={Temporal binary representation for event-based action recognition},
+  author={Innocenti, Simone Undri and Becattini, Federico and Pernici, Federico and Del Bimbo, Alberto},
+  booktitle={2020 25th International Conference on Pattern Recognition (ICPR)},
+  pages={10426--10432},
+  year={2021},
+  organization={IEEE}
+}
+
+@article{undri2020temporal,
+  title={Temporal Binary Representation for Event-Based Action Recognition},
+  author={Undri Innocenti, Simone and Becattini, Federico and Pernici, Federico and Del Bimbo, Alberto},
+  journal={arXiv e-prints},
+  pages={arXiv--2010},
+  year={2020}
+}
+
+@inproceedings{de2021garment,
+  title={Garment recommendation with memory augmented neural networks},
+  author={De Divitiis, Lavinia and Becattini, Federico and Baecchi, Claudio and Del Bimbo, Alberto},
+  booktitle={International conference on pattern recognition},
+  pages={282--295},
+  year={2021},
+  organization={Springer International Publishing Cham}
+}
+
+@inproceedings{de2021style,
+  title={Style-based outfit recommendation},
+  author={De Divitiis, Lavinia and Becattini, Federico and Baecchi, Claudio and Del Bimbo, Alberto},
+  booktitle={2021 International Conference on Content-Based Multimedia Indexing (CBMI)},
+  pages={1--4},
+  year={2021},
+  organization={IEEE}
+}
+
+@incollection{becattini2021plm,
+  title={PLM-IPE: A pixel-landmark mutual enhanced framework for implicit preference estimation},
+  author={Becattini, Federico and Song, Xuemeng and Baecchi, Claudio and Fang, Shi-Ting and Ferrari, Claudio and Nie, Liqiang and Del Bimbo, Alberto},
+  booktitle={ACM Multimedia Asia},
+  pages={1--5},
+  year={2021}
+}
+
+@article{ferrari2022compress,
+  title={(Compress and Restore) N: a Robust Defense Against Adversarial Attacks on Image Classification},
+  author={Ferrari, Claudio and Becattini, Federico and Galteri, Leonardo and Bimbo, Alberto Del},
+  journal={ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)},
+  year={2022},
+  publisher={ACM}
+}
+
+@article{marchetti2024smemo,
+  title={Smemo: social memory for trajectory forecasting},
+  author={Marchetti, Francesco and Becattini, Federico and Seidenari, Lorenzo and Del Bimbo, Alberto},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2024},
+  publisher={IEEE}
+}
+
+@inproceedings{guimard2022deep,
+  title={Deep variational learning for multiple trajectory prediction of 360° head movements},
+  author={Guimard, Quentin and Sassatelli, Lucile and Marchetti, Francesco and Becattini, Federico and Seidenari, Lorenzo and Bimbo, Alberto Del},
+  booktitle={Proceedings of the 13th ACM Multimedia Systems Conference},
+  pages={12--26},
+  year={2022}
+}
+
+
+@article{de2023disentangling,
+  title={Disentangling features for fashion recommendation},
+  author={De Divitiis, Lavinia and Becattini, Federico and Baecchi, Claudio and Del Bimbo, Alberto},
+  journal={ACM Transactions on Multimedia Computing, Communications and Applications},
+  volume={19},
+  number={1s},
+  pages={1--21},
+  year={2023},
+  publisher={ACM New York, NY}
+}
+
+@inproceedings{ciamarra2022forecasting,
+  title={Forecasting future instance segmentation with learned optical flow and warping},
+  author={Ciamarra, Andrea and Becattini, Federico and Seidenari, Lorenzo and Del Bimbo, Alberto},
+  booktitle={International Conference on Image Analysis and Processing},
+  pages={349--361},
+  year={2022},
+  organization={Springer International Publishing Cham}
+}
+
+@inproceedings{alfani2022online,
+  title={Online Deep Clustering with Video Track Consistency},
+  author={Alfani, Alessandra and Becattini, Federico and Seidenari, Lorenzo and Del Bimbo, Alberto},
+  booktitle={2022 26th International Conference on Pattern Recognition (ICPR)},
+  pages={2650--2656},
+  year={2022},
+  organization={IEEE}
+}
+
+@inproceedings{bongini2022gpt,
+  title={Is GPT-3 All You Need for Visual Question Answering in Cultural Heritage?},
+  author={Bongini, Pietro and Becattini, Federico and Del Bimbo, Alberto},
+  booktitle={European Conference on Computer Vision},
+  pages={268--281},
+  year={2022},
+  organization={Springer Nature Switzerland Cham}
+}
+
+@article{becattini2023fashion,
+  title={Fashion recommendation based on style and social events},
+  author={Becattini, Federico and De Divitiis, Lavinia and Baecchi, Claudio and Bimbo, Alberto Del},
+  journal={Multimedia Tools and Applications},
+  pages={1--16},
+  year={2023},
+  publisher={Springer US}
+}
+
+@article{becattini2022understanding,
+  title={Understanding human reactions looking at facial microexpressions with an event camera},
+  author={Becattini, Federico and Palai, Federico and Del Bimbo, Alberto},
+  journal={IEEE Transactions on Industrial Informatics},
+  volume={18},
+  number={12},
+  pages={9112--9121},
+  year={2022},
+  publisher={IEEE}
+}
+
+@inproceedings{becattini2022mall,
+  title={I-MALL An Effective Framework for Personalized Visits. Improving the Customer Experience in Stores},
+  author={Becattini, Federico and Becchi, Giuseppe and Ferracani, Andrea and Bimbo, Alberto Del and Presti, Liliana Lo and Mazzola, Giuseppe and Cascia, Marco La and Cunico, Federico and Toaiari, Andrea and Cristani, Marco and others},
+  booktitle={Proceedings of the 1st Workshop on Multimedia Computing towards Fashion Recommendation},
+  pages={11--19},
+  year={2022}
+}
+
+@inproceedings{song2022mcfr,
+  title={MCFR'22: 1st Workshop on Multimedia Computing towards Fashion Recommendation},
+  author={Song, Xuemeng and Chen, Jingjing and Becattini, Federico and Guan, Weili and Zhan, Yibing and Chua, Tat-Seng},
+  booktitle={Proceedings of the 30th ACM International Conference on Multimedia},
+  pages={7416--7417},
+  year={2022}
+}
+
+@inproceedings{becattini2022memory,
+  title={Memory Networks},
+  author={Becattini, Federico and Uricchio, Tiberio},
+  booktitle={Proceedings of the 30th ACM International Conference on Multimedia},
+  pages={7380--7382},
+  year={2022}
+}
+
+@article{becattini2022events,
+  title={Events in crowded places: A smart service management},
+  author={Becattini, Federico and Ferracani, Andrea and Becchi, Giuseppe and Del Bimbo, Alberto},
+  journal={Pattern Recognition Letters},
+  volume={164},
+  pages={153--160},
+  year={2022},
+  publisher={North-Holland}
+}
+
+@article{pucci2023joint,
+  title={Joint-Based Action Progress Prediction},
+  author={Pucci, Davide and Becattini, Federico and Del Bimbo, Alberto},
+  journal={Sensors},
+  volume={23},
+  number={1},
+  pages={520},
+  year={2023},
+  publisher={MDPI}
+}
+
+@article{cultrera2023explaining,
+  title={Explaining autonomous driving with visual attention and end-to-end trainable region proposals},
+  author={Cultrera, Luca and Becattini, Federico and Seidenari, Lorenzo and Pala, Pietro and Del Bimbo, Alberto},
+  journal={Journal of Ambient Intelligence and Humanized Computing},
+  pages={1--13},
+  year={2023},
+  publisher={Springer Berlin Heidelberg Berlin/Heidelberg}
+}
+
+@inproceedings{song2022welcome,
+  title={Welcome to MCFR’22},
+  author={Song, Xuemeng and Chen, Jingjing and Becattini, Federico and Guan, Weili and Zhan, Yibing and Chua, Tat-Seng and others},
+  booktitle={MCFR 2022-Proceedings of the 1st Workshop on Multimedia Computing towards Fashion Recommendation},
+  pages={3--3},
+  year={2022},
+  organization={Association for Computing Machinery, Inc}
+}
+
+@article{claudio2022compress,
+  title={(Compress and Restore)\^{} N: a Robust Defense Against Adversarial Attacks on Image Classification},
+  author={Claudio, Ferrari and Becattini, Federico and Leonardo, Galteri and Del Bimbo, Alberto and others},
+  journal={ACM TRANSACTIONS ON MULTIMEDIA COMPUTING, COMMUNICATIONS AND APPLICATIONS},
+  volume={19},
+  number={1S},
+  pages={1--16},
+  year={2022}
+}
+
+@inproceedings{marchetti2022explainable,
+  title={Explainable sparse attention for memory-based trajectory predictors},
+  author={Marchetti, Francesco and Becattini, Federico and Seidenari, Lorenzo and Del Bimbo, Alberto},
+  booktitle={European Conference on Computer Vision},
+  pages={543--560},
+  year={2022},
+  organization={Springer Nature Switzerland Cham}
+}
+
+@article{federico2020done,
+  title={Am I done? Predicting action progress in videos},
+  author={Federico, Becattini and Uricchio, Tiberio and Lorenzo, Seidenari and Lamberto, Ballan and Del Bimbo, Alberto and others},
+  journal={ACM TRANSACTIONS ON MULTIMEDIA COMPUTING, COMMUNICATIONS AND APPLICATIONS},
+  volume={16},
+  pages={1--24},
+  year={2020},
+  publisher={ACM}
+}
+
+@article{becattini2023viscounth,
+  title={VISCOUNTH: A Large-Scale Multilingual Visual Question Answering Dataset for Cultural Heritage},
+  author={Becattini, Federico and Bongini, Pietro and Bulla, Luana and Bimbo, Alberto Del and Marinucci, Ludovica and Mongiov{\`\i}, Misael and Presutti, Valentina},
+  journal={ACM Transactions on Multimedia Computing, Communications and Applications},
+  year={2023},
+  publisher={ACM}
+}
+
+@inproceedings{berlincioni2023neuromorphic,
+  title={Neuromorphic Event-based Facial Expression Recognition},
+  author={Berlincioni, Lorenzo and Cultrera, Luca and Albisani, Chiara and Cresti, Lisa and Leonardo, Andrea and Picchioni, Sara and Becattini, Federico and Del Bimbo, Alberto},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={4108--4118},
+  year={2023}
+}
+
+@article{becattini2023transformer,
+  title={Transformer-based Graph Neural Networks for Outfit Generation},
+  author={Becattini, Federico and Teotini, Federico Maria and Del Bimbo, Alberto},
+  journal={IEEE Transactions on Emerging Topics in Computing},
+  year={2023}
+}
+
+@misc{daoudi2023computer,
+  title={Computer Vision in Human Analysis: From Face and Body to Clothes},
+  author={Daoudi, Mohamed and Vezzani, Roberto and Borghi, Guido and Ferrari, Claudio and Cornia, Marcella and Becattini, Federico and Pilzer, Andrea},
+  journal={Sensors},
+  volume={23},
+  number={12},
+  pages={5378},
+  year={2023},
+  publisher={MDPI}
+}
+
+@article{scaramuzzino2023attribute,
+  title={Attribute disentanglement with gradient reversal for interactive fashion retrieval},
+  author={Scaramuzzino, Giovanna and Becattini, Federico and Del Bimbo, Alberto},
+  journal={Pattern Recognition Letters},
+  volume={172},
+  pages={203--212},
+  year={2023},
+  publisher={North-Holland}
+}
+
+@inproceedings{agnolucci2023eco,
+  title={ECO: Ensembling Context Optimization for Vision-Language Models},
+  author={Agnolucci, Lorenzo and Baldrati, Alberto and Todino, Francesco and Becattini, Federico and Bertini, Marco and Del Bimbo, Alberto},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={2811--2815},
+  year={2023}
+}
+
+@article{becattini2023head,
+  title={Head pose estimation patterns as deepfake detectors},
+  author={Becattini, Federico and Bisogni, Carmen and Loia, Vincenzo and Pero, Chiara and Hao, Fei},
+  journal={ACM Transactions on Multimedia Computing, Communications and Applications},
+  year={2023},
+  publisher={ACM New York, NY}
+}
+
+@inproceedings{cioni2023diffusion,
+  title={Diffusion Based Augmentation for Captioning and Retrieval in Cultural Heritage},
+  author={Cioni, Dario and Berlincioni, Lorenzo and Becattini, Federico and Del Bimbo, Alberto},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={1707--1716},
+  year={2023}
+}
+
+@article{simoni2023robot,
+  title={Robot Pose Nowcasting: Forecast the Future to Improve the Present},
+  author={Simoni, Alessandro and Marchetti, Francesco and Borghi, Guido and Becattini, Federico and Seidenari, Lorenzo and Vezzani, Roberto and Del Bimbo, Alberto},
+  journal={arXiv preprint arXiv:2308.12914},
+  year={2023}
+}
+
+@article{ciamarra2023flodcast,
+  title={FLODCAST: Flow and Depth Forecasting via Multimodal Recurrent Architectures},
+  author={Ciamarra, Andrea and Becattini, Federico and Seidenari, Lorenzo and Del Bimbo, Alberto},
+  journal={arXiv preprint arXiv:2310.20593},
+  year={2023}
+}
+
+@inproceedings{ciamarra2024deepfake,
+  title={Deepfake detection by exploiting surface anomalies: the SurFake approach},
+  author={Ciamarra, Andrea and Caldelli, Roberto and Becattini, Federico and Seidenari, Lorenzo and Del Bimbo, Alberto},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  pages={1024--1033},
+  year={2024}
+}
+
+@article{cultrera2023addressing,
+  title={Addressing Limitations of State-Aware Imitation Learning for Autonomous Driving},
+  author={Cultrera, Luca and Becattini, Federico and Seidenari, Lorenzo and Pala, Pietro and Del Bimbo, Alberto},
+  journal={IEEE Transactions on Intelligent Vehicles},
+  year={2023},
+  publisher={IEEE}
+}
+
+@article{guimard2024deep,
+  title={Deep Variational Learning for 360° Adaptive Streaming},
+  author={Guimard, Quentin and Sassatelli, Lucile and Marchetti, Francesco and Becattini, Federico and Seidenari, Lorenzo and Bimbo, Alberto Del},
+  journal={ACM Transactions on Multimedia Computing, Communications and Applications},
+  year={2024},
+  publisher={ACM New York, NY}
+}
