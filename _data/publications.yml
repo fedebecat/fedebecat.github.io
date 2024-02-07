@@ -259,13 +259,6 @@ main:
    image: marchetti2022explainable.png
    bibtex: assets/bib/marchetti2022explainable.bib
 
- - title: Am I done? Predicting action progress in videos
-   authors: Federico, Becattini and Uricchio, Tiberio and Lorenzo, Seidenari and Lamberto, Ballan and Del Bimbo, Alberto and others
-   conference: ACM TRANSACTIONS ON MULTIMEDIA COMPUTING, COMMUNICATIONS AND APPLICATIONS
-   pdf: federico2020done.pdf
-   image: federico2020done.png
-   bibtex: assets/bib/federico2020done.bib
-
  - title: VISCOUNTH A Large-Scale Multilingual Visual Question Answering Dataset for Cultural Heritage
    authors: Becattini, Federico and Bongini, Pietro and Bulla, Luana and Bimbo, Alberto Del and Marinucci, Ludovica and Mongiov{\`\i}, Misael and Presutti, Valentina
    conference: ACM Transactions on Multimedia Computing, Communications and Applications

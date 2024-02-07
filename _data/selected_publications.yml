@@ -1,0 +1,49 @@
+main:
+
+ - title: Mantra Memory augmented networks for multiple trajectory prediction
+   authors: Marchetti, Francesco and Becattini, Federico and Seidenari, Lorenzo and Bimbo, Alberto Del
+   conference: 'Proceedings of the IEEE/CVF conference on computer vision and pattern recognition'
+   pdf: marchetti2020mantra.pdf
+   image: marchetti2020mantra.png
+   bibtex: assets/bib/marchetti2020mantra.bib
+   conference_short: CVPR
+
+ - title: Multiple Trajectory Prediction of Moving Agents with Memory Augmented Networks
+   authors: Marchetti, Francesco and Becattini, Federico and Seidenari, Lorenzo and Del Bimbo, Alberto
+   conference: IEEE Transactions on Pattern Analysis and Machine Intelligence
+   pdf: marchetti2020multiple.pdf
+   image: marchetti2020multiple.png
+   bibtex: assets/bib/marchetti2020multiple.bib
+   conference_short: T-PAMI
+
+ - title: Smemo social memory for trajectory forecasting
+   authors: Marchetti, Francesco and Becattini, Federico and Seidenari, Lorenzo and Del Bimbo, Alberto
+   conference: IEEE Transactions on Pattern Analysis and Machine Intelligence
+   pdf: marchetti2024smemo.pdf
+   image: marchetti2024smemo.png
+   bibtex: assets/bib/marchetti2024smemo.bib
+   conference_short: T-PAMI
+
+ - title: Understanding human reactions looking at facial microexpressions with an event camera
+   authors: Becattini, Federico and Palai, Federico and Del Bimbo, Alberto
+   conference: IEEE Transactions on Industrial Informatics
+   pdf: becattini2022understanding.pdf
+   image: becattini2022understanding.png
+   bibtex: assets/bib/becattini2022understanding.bib
+   conference_short: T-II
+
+ - title: Transformer-based Graph Neural Networks for Outfit Generation
+   authors: Becattini, Federico and Teotini, Federico Maria and Del Bimbo, Alberto
+   conference: IEEE Transactions on Emerging Topics in Computing
+   pdf: becattini2023transformer.pdf
+   image: becattini2023transformer.png
+   bibtex: assets/bib/becattini2023transformer.bib
+   conference_short: T-ETC
+
+ - title: Addressing Limitations of State-Aware Imitation Learning for Autonomous Driving
+   authors: Cultrera, Luca and Becattini, Federico and Seidenari, Lorenzo and Pala, Pietro and Del Bimbo, Alberto
+   conference: IEEE Transactions on Intelligent Vehicles
+   pdf: cultrera2023addressing.pdf
+   image: cultrera2023addressing.png
+   bibtex: assets/bib/cultrera2023addressing.bib
+   conference_short: T-IV
