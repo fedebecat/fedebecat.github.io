@@ -3,350 +3,336 @@ main:
  - title: Indexing ensembles of exemplar-svms with rejecting taxonomies
    authors: Becattini, Federico and Seidenari, Lorenzo and Del Bimbo, Alberto
    conference: '2016 14th International Workshop on Content-Based Multimedia Indexing (CBMI)'
-   pdf: becattini2016indexing.pdf
+   pdf: assets/papers/becattini2016indexing.pdf
    image: becattini2016indexing.png
    bibtex: assets/bib/becattini2016indexing.bib
 
  - title: Segmentation free object discovery in video
    authors: Cuffaro, Giovanni and Becattini, Federico and Baecchi, Claudio and Seidenari, Lorenzo and Del Bimbo, Alberto
    conference: ' '
-   pdf: cuffaro2016segmentation.pdf
+   pdf: assets/papers/cuffaro2016segmentation.pdf
    image: cuffaro2016segmentation.png
    bibtex: assets/bib/cuffaro2016segmentation.bib
 
  - title: Imaging novecento. a mobile app for automatic recognition of artworks and transfer of artistic styles
    authors: Becattini, Federico and Ferracani, Andrea and Landucci, Lea and Pezzatini, Daniele and Uricchio, Tiberio and Bimbo, Alberto Del
    conference: 'Euro-Mediterranean Conference'
-   pdf: becattini2016imaging.pdf
+   pdf: assets/papers/becattini2016imaging.pdf
    image: becattini2016imaging.png
    bibtex: assets/bib/becattini2016imaging.bib
 
  - title: Am I done? Predicting action progress in videos
    authors: Becattini, Federico and Uricchio, Tiberio and Seidenari, Lorenzo and Ballan, Lamberto and Bimbo, Alberto Del
    conference: ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)
-   pdf: becattini2020done.pdf
+   pdf: assets/papers/becattini2020done.pdf
    image: becattini2020done.png
    bibtex: assets/bib/becattini2020done.bib
 
  - title: Indexing quantized ensembles of exemplar-SVMs with rejecting taxonomies
    authors: Becattini, Federico and Seidenari, Lorenzo and Del Bimbo, Alberto
    conference: Multimedia Tools and Applications
-   pdf: becattini2017indexing.pdf
+   pdf: assets/papers/becattini2017indexing.pdf
    image: becattini2017indexing.png
    bibtex: assets/bib/becattini2017indexing.bib
 
  - title: Road layout understanding by generative adversarial inpainting
    authors: Berlincioni, Lorenzo and Becattini, Federico and Galteri, Leonardo and Seidenari, Lorenzo and Bimbo, Alberto Del
    conference: 'Inpainting and Denoising Challenges'
-   pdf: berlincioni2019road.pdf
+   pdf: assets/papers/berlincioni2019road.pdf
    image: berlincioni2019road.png
    bibtex: assets/bib/berlincioni2019road.bib
 
  - title: Vehicle Trajectories from Unlabeled Data through Iterative Plane Registration
    authors: Becattini, Federico and Seidenari, Lorenzo and Berlincioni, Lorenzo and Galteri, Leonardo and Del Bimbo, Alberto
    conference: 'International Conference on Image Analysis and Processing'
-   pdf: becattini2019vehicle.pdf
+   pdf: assets/papers/becattini2019vehicle.pdf
    image: becattini2019vehicle.png
    bibtex: assets/bib/becattini2019vehicle.bib
 
  - title: NeuronUnityIntegration2. 0. A Unity Based Application for Motion Capture and Gesture Recognition
    authors: Becattini, Federico and Ferracani, Andrea and Principi, Filippo and Ghianni, Marioemanuele and Del Bimbo, Alberto
    conference: 'Proceedings of the 27th ACM International Conference on Multimedia'
-   pdf: becattini2019neuronunityintegration2.pdf
+   pdf: assets/papers/becattini2019neuronunityintegration2.pdf
    image: becattini2019neuronunityintegration2.png
    bibtex: assets/bib/becattini2019neuronunityintegration2.bib
 
  - title: Voice Onset Time Enhanced User System (VOTEUS) a web graphic interface for the analysis of plosives’ release phases
    authors: Piccardi, Duccio and Becattini, Federico
    conference: Book series Studi AISV
-   pdf: piccardi2018voice.pdf
+   pdf: assets/papers/piccardi2018voice.pdf
    image: piccardi2018voice.png
    bibtex: assets/bib/piccardi2018voice.bib
 
  - title: Visual question answering for cultural heritage
    authors: Bongini, Pietro and Becattini, Federico and Bagdanov, Andrew D and Del Bimbo, Alberto
    conference: 'IOP Conference Series Materials Science and Engineering'
-   pdf: bongini2020visual.pdf
+   pdf: assets/papers/bongini2020visual.pdf
    image: bongini2020visual.png
    bibtex: assets/bib/bongini2020visual.bib
 
  - title: Mantra Memory augmented networks for multiple trajectory prediction
    authors: Marchetti, Francesco and Becattini, Federico and Seidenari, Lorenzo and Bimbo, Alberto Del
    conference: 'Proceedings of the IEEE/CVF conference on computer vision and pattern recognition'
-   pdf: marchetti2020mantra.pdf
+   pdf: assets/papers/marchetti2020mantra.pdf
    image: marchetti2020mantra.png
    bibtex: assets/bib/marchetti2020mantra.bib
 
  - title: Explaining autonomous driving by learning end-to-end visual attention
    authors: Cultrera, Luca and Seidenari, Lorenzo and Becattini, Federico and Pala, Pietro and Del Bimbo, Alberto
    conference: 'Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops'
-   pdf: cultrera2020explaining.pdf
+   pdf: assets/papers/cultrera2020explaining.pdf
    image: cultrera2020explaining.png
    bibtex: assets/bib/cultrera2020explaining.bib
 
  - title: Multiple Trajectory Prediction of Moving Agents with Memory Augmented Networks
    authors: Marchetti, Francesco and Becattini, Federico and Seidenari, Lorenzo and Del Bimbo, Alberto
    conference: IEEE Transactions on Pattern Analysis and Machine Intelligence
-   pdf: marchetti2020multiple.pdf
+   pdf: assets/papers/marchetti2020multiple.pdf
    image: marchetti2020multiple.png
    bibtex: assets/bib/marchetti2020multiple.bib
 
  - title: Multiple future prediction leveraging synthetic trajectories
    authors: Berlincioni, Lorenzo and Becattini, Federico and Seidenari, Lorenzo and Del Bimbo, Alberto
    conference: '2020 25th International Conference on Pattern Recognition (ICPR)'
-   pdf: berlincioni2021multiple.pdf
+   pdf: assets/papers/berlincioni2021multiple.pdf
    image: berlincioni2021multiple.png
    bibtex: assets/bib/berlincioni2021multiple.bib
 
  - title: Temporal binary representation for event-based action recognition
    authors: Innocenti, Simone Undri and Becattini, Federico and Pernici, Federico and Del Bimbo, Alberto
    conference: '2020 25th International Conference on Pattern Recognition (ICPR)'
-   pdf: innocenti2021temporal.pdf
+   pdf: assets/papers/innocenti2021temporal.pdf
    image: innocenti2021temporal.png
    bibtex: assets/bib/innocenti2021temporal.bib
-
- - title: Temporal Binary Representation for Event-Based Action Recognition
-   authors: Undri Innocenti, Simone and Becattini, Federico and Pernici, Federico and Del Bimbo, Alberto
-   conference: arXiv e-prints
-   pdf: undri2020temporal.pdf
-   image: undri2020temporal.png
-   bibtex: assets/bib/undri2020temporal.bib
 
  - title: Garment recommendation with memory augmented neural networks
    authors: De Divitiis, Lavinia and Becattini, Federico and Baecchi, Claudio and Del Bimbo, Alberto
    conference: 'International conference on pattern recognition'
-   pdf: de2021garment.pdf
+   pdf: assets/papers/de2021garment.pdf
    image: de2021garment.png
    bibtex: assets/bib/de2021garment.bib
 
  - title: Style-based outfit recommendation
    authors: De Divitiis, Lavinia and Becattini, Federico and Baecchi, Claudio and Del Bimbo, Alberto
    conference: '2021 International Conference on Content-Based Multimedia Indexing (CBMI)'
-   pdf: de2021style.pdf
+   pdf: assets/papers/de2021style.pdf
    image: de2021style.png
    bibtex: assets/bib/de2021style.bib
 
  - title: PLM-IPE A pixel-landmark mutual enhanced framework for implicit preference estimation
    authors: Becattini, Federico and Song, Xuemeng and Baecchi, Claudio and Fang, Shi-Ting and Ferrari, Claudio and Nie, Liqiang and Del Bimbo, Alberto
    conference: 'ACM Multimedia Asia'
-   pdf: becattini2021plm.pdf
+   pdf: assets/papers/becattini2021plm.pdf
    image: becattini2021plm.png
    bibtex: assets/bib/becattini2021plm.bib
 
  - title: (Compress and Restore) N a Robust Defense Against Adversarial Attacks on Image Classification
    authors: Ferrari, Claudio and Becattini, Federico and Galteri, Leonardo and Bimbo, Alberto Del
    conference: ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)
-   pdf: ferrari2022compress.pdf
+   pdf: assets/papers/ferrari2022compress.pdf
    image: ferrari2022compress.png
    bibtex: assets/bib/ferrari2022compress.bib
 
  - title: Smemo social memory for trajectory forecasting
    authors: Marchetti, Francesco and Becattini, Federico and Seidenari, Lorenzo and Del Bimbo, Alberto
    conference: IEEE Transactions on Pattern Analysis and Machine Intelligence
-   pdf: marchetti2024smemo.pdf
+   pdf: assets/papers/marchetti2024smemo.pdf
    image: marchetti2024smemo.png
    bibtex: assets/bib/marchetti2024smemo.bib
 
  - title: Deep variational learning for multiple trajectory prediction of 360° head movements
    authors: Guimard, Quentin and Sassatelli, Lucile and Marchetti, Francesco and Becattini, Federico and Seidenari, Lorenzo and Bimbo, Alberto Del
    conference: 'Proceedings of the 13th ACM Multimedia Systems Conference'
-   pdf: guimard2022deep.pdf
+   pdf: assets/papers/guimard2022deep.pdf
    image: guimard2022deep.png
    bibtex: assets/bib/guimard2022deep.bib
 
  - title: Disentangling features for fashion recommendation
    authors: De Divitiis, Lavinia and Becattini, Federico and Baecchi, Claudio and Del Bimbo, Alberto
    conference: ACM Transactions on Multimedia Computing, Communications and Applications
-   pdf: de2023disentangling.pdf
+   pdf: assets/papers/de2023disentangling.pdf
    image: de2023disentangling.png
    bibtex: assets/bib/de2023disentangling.bib
 
  - title: Forecasting future instance segmentation with learned optical flow and warping
    authors: Ciamarra, Andrea and Becattini, Federico and Seidenari, Lorenzo and Del Bimbo, Alberto
    conference: 'International Conference on Image Analysis and Processing'
-   pdf: ciamarra2022forecasting.pdf
+   pdf: assets/papers/ciamarra2022forecasting.pdf
    image: ciamarra2022forecasting.png
    bibtex: assets/bib/ciamarra2022forecasting.bib
 
  - title: Online Deep Clustering with Video Track Consistency
    authors: Alfani, Alessandra and Becattini, Federico and Seidenari, Lorenzo and Del Bimbo, Alberto
    conference: '2022 26th International Conference on Pattern Recognition (ICPR)'
-   pdf: alfani2022online.pdf
+   pdf: assets/papers/alfani2022online.pdf
    image: alfani2022online.png
    bibtex: assets/bib/alfani2022online.bib
 
  - title: Is GPT-3 All You Need for Visual Question Answering in Cultural Heritage?
    authors: Bongini, Pietro and Becattini, Federico and Del Bimbo, Alberto
    conference: 'European Conference on Computer Vision'
-   pdf: bongini2022gpt.pdf
+   pdf: assets/papers/bongini2022gpt.pdf
    image: bongini2022gpt.png
    bibtex: assets/bib/bongini2022gpt.bib
 
  - title: Fashion recommendation based on style and social events
    authors: Becattini, Federico and De Divitiis, Lavinia and Baecchi, Claudio and Bimbo, Alberto Del
    conference: Multimedia Tools and Applications
-   pdf: becattini2023fashion.pdf
+   pdf: assets/papers/becattini2023fashion.pdf
    image: becattini2023fashion.png
    bibtex: assets/bib/becattini2023fashion.bib
 
  - title: Understanding human reactions looking at facial microexpressions with an event camera
    authors: Becattini, Federico and Palai, Federico and Del Bimbo, Alberto
    conference: IEEE Transactions on Industrial Informatics
-   pdf: becattini2022understanding.pdf
+   pdf: assets/papers/becattini2022understanding.pdf
    image: becattini2022understanding.png
    bibtex: assets/bib/becattini2022understanding.bib
 
  - title: I-MALL An Effective Framework for Personalized Visits. Improving the Customer Experience in Stores
    authors: Becattini, Federico and Becchi, Giuseppe and Ferracani, Andrea and Bimbo, Alberto Del and Presti, Liliana Lo and Mazzola, Giuseppe and Cascia, Marco La and Cunico, Federico and Toaiari, Andrea and Cristani, Marco and others
    conference: 'Proceedings of the 1st Workshop on Multimedia Computing towards Fashion Recommendation'
-   pdf: becattini2022mall.pdf
+   pdf: assets/papers/becattini2022mall.pdf
    image: becattini2022mall.png
    bibtex: assets/bib/becattini2022mall.bib
 
  - title: MCFR'22 1st Workshop on Multimedia Computing towards Fashion Recommendation
    authors: Song, Xuemeng and Chen, Jingjing and Becattini, Federico and Guan, Weili and Zhan, Yibing and Chua, Tat-Seng
    conference: 'Proceedings of the 30th ACM International Conference on Multimedia'
-   pdf: song2022mcfr.pdf
+   pdf: assets/papers/song2022mcfr.pdf
    image: song2022mcfr.png
    bibtex: assets/bib/song2022mcfr.bib
 
  - title: Memory Networks
    authors: Becattini, Federico and Uricchio, Tiberio
    conference: 'Proceedings of the 30th ACM International Conference on Multimedia'
-   pdf: becattini2022memory.pdf
+   pdf: assets/papers/becattini2022memory.pdf
    image: becattini2022memory.png
    bibtex: assets/bib/becattini2022memory.bib
 
  - title: Events in crowded places A smart service management
    authors: Becattini, Federico and Ferracani, Andrea and Becchi, Giuseppe and Del Bimbo, Alberto
    conference: Pattern Recognition Letters
-   pdf: becattini2022events.pdf
+   pdf: assets/papers/becattini2022events.pdf
    image: becattini2022events.png
    bibtex: assets/bib/becattini2022events.bib
 
  - title: Joint-Based Action Progress Prediction
    authors: Pucci, Davide and Becattini, Federico and Del Bimbo, Alberto
    conference: Sensors
-   pdf: pucci2023joint.pdf
+   pdf: assets/papers/pucci2023joint.pdf
    image: pucci2023joint.png
    bibtex: assets/bib/pucci2023joint.bib
 
  - title: Explaining autonomous driving with visual attention and end-to-end trainable region proposals
    authors: Cultrera, Luca and Becattini, Federico and Seidenari, Lorenzo and Pala, Pietro and Del Bimbo, Alberto
    conference: Journal of Ambient Intelligence and Humanized Computing
-   pdf: cultrera2023explaining.pdf
+   pdf: assets/papers/cultrera2023explaining.pdf
    image: cultrera2023explaining.png
    bibtex: assets/bib/cultrera2023explaining.bib
 
  - title: Welcome to MCFR’22
    authors: Song, Xuemeng and Chen, Jingjing and Becattini, Federico and Guan, Weili and Zhan, Yibing and Chua, Tat-Seng and others
    conference: 'MCFR 2022-Proceedings of the 1st Workshop on Multimedia Computing towards Fashion Recommendation'
-   pdf: song2022welcome.pdf
+   pdf: assets/papers/song2022welcome.pdf
    image: song2022welcome.png
    bibtex: assets/bib/song2022welcome.bib
-
- - title: (Compress and Restore)\^{} N a Robust Defense Against Adversarial Attacks on Image Classification
-   authors: Claudio, Ferrari and Becattini, Federico and Leonardo, Galteri and Del Bimbo, Alberto and others
-   conference: ACM TRANSACTIONS ON MULTIMEDIA COMPUTING, COMMUNICATIONS AND APPLICATIONS
-   pdf: claudio2022compress.pdf
-   image: claudio2022compress.png
-   bibtex: assets/bib/claudio2022compress.bib
 
  - title: Explainable sparse attention for memory-based trajectory predictors
    authors: Marchetti, Francesco and Becattini, Federico and Seidenari, Lorenzo and Del Bimbo, Alberto
    conference: 'European Conference on Computer Vision'
-   pdf: marchetti2022explainable.pdf
+   pdf: assets/papers/marchetti2022explainable.pdf
    image: marchetti2022explainable.png
    bibtex: assets/bib/marchetti2022explainable.bib
 
  - title: VISCOUNTH A Large-Scale Multilingual Visual Question Answering Dataset for Cultural Heritage
    authors: Becattini, Federico and Bongini, Pietro and Bulla, Luana and Bimbo, Alberto Del and Marinucci, Ludovica and Mongiov{\`\i}, Misael and Presutti, Valentina
    conference: ACM Transactions on Multimedia Computing, Communications and Applications
-   pdf: becattini2023viscounth.pdf
+   pdf: assets/papers/becattini2023viscounth.pdf
    image: becattini2023viscounth.png
    bibtex: assets/bib/becattini2023viscounth.bib
 
  - title: Neuromorphic Event-based Facial Expression Recognition
    authors: Berlincioni, Lorenzo and Cultrera, Luca and Albisani, Chiara and Cresti, Lisa and Leonardo, Andrea and Picchioni, Sara and Becattini, Federico and Del Bimbo, Alberto
    conference: 'Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition'
-   pdf: berlincioni2023neuromorphic.pdf
+   pdf: assets/papers/berlincioni2023neuromorphic.pdf
    image: berlincioni2023neuromorphic.png
    bibtex: assets/bib/berlincioni2023neuromorphic.bib
 
  - title: Transformer-based Graph Neural Networks for Outfit Generation
    authors: Becattini, Federico and Teotini, Federico Maria and Del Bimbo, Alberto
    conference: IEEE Transactions on Emerging Topics in Computing
-   pdf: becattini2023transformer.pdf
+   pdf: assets/papers/becattini2023transformer.pdf
    image: becattini2023transformer.png
    bibtex: assets/bib/becattini2023transformer.bib
 
  - title: Computer Vision in Human Analysis From Face and Body to Clothes
    authors: Daoudi, Mohamed and Vezzani, Roberto and Borghi, Guido and Ferrari, Claudio and Cornia, Marcella and Becattini, Federico and Pilzer, Andrea
    conference: Sensors
-   pdf: daoudi2023computer.pdf
+   pdf: assets/papers/daoudi2023computer.pdf
    image: daoudi2023computer.png
    bibtex: assets/bib/daoudi2023computer.bib
 
  - title: Attribute disentanglement with gradient reversal for interactive fashion retrieval
    authors: Scaramuzzino, Giovanna and Becattini, Federico and Del Bimbo, Alberto
    conference: Pattern Recognition Letters
-   pdf: scaramuzzino2023attribute.pdf
+   pdf: assets/papers/scaramuzzino2023attribute.pdf
    image: scaramuzzino2023attribute.png
    bibtex: assets/bib/scaramuzzino2023attribute.bib
 
  - title: ECO Ensembling Context Optimization for Vision-Language Models
    authors: Agnolucci, Lorenzo and Baldrati, Alberto and Todino, Francesco and Becattini, Federico and Bertini, Marco and Del Bimbo, Alberto
    conference: 'Proceedings of the IEEE/CVF International Conference on Computer Vision'
-   pdf: agnolucci2023eco.pdf
+   pdf: assets/papers/agnolucci2023eco.pdf
    image: agnolucci2023eco.png
    bibtex: assets/bib/agnolucci2023eco.bib
 
  - title: Head pose estimation patterns as deepfake detectors
    authors: Becattini, Federico and Bisogni, Carmen and Loia, Vincenzo and Pero, Chiara and Hao, Fei
    conference: ACM Transactions on Multimedia Computing, Communications and Applications
-   pdf: becattini2023head.pdf
+   pdf: assets/papers/becattini2023head.pdf
    image: becattini2023head.png
    bibtex: assets/bib/becattini2023head.bib
 
  - title: Diffusion Based Augmentation for Captioning and Retrieval in Cultural Heritage
    authors: Cioni, Dario and Berlincioni, Lorenzo and Becattini, Federico and Del Bimbo, Alberto
    conference: 'Proceedings of the IEEE/CVF International Conference on Computer Vision'
-   pdf: cioni2023diffusion.pdf
+   pdf: assets/papers/cioni2023diffusion.pdf
    image: cioni2023diffusion.png
    bibtex: assets/bib/cioni2023diffusion.bib
 
  - title: Robot Pose Nowcasting Forecast the Future to Improve the Present
    authors: Simoni, Alessandro and Marchetti, Francesco and Borghi, Guido and Becattini, Federico and Seidenari, Lorenzo and Vezzani, Roberto and Del Bimbo, Alberto
    conference: arXiv preprint arXiv2308.12914
-   pdf: simoni2023robot.pdf
+   pdf: assets/papers/simoni2023robot.pdf
    image: simoni2023robot.png
    bibtex: assets/bib/simoni2023robot.bib
 
  - title: FLODCAST Flow and Depth Forecasting via Multimodal Recurrent Architectures
    authors: Ciamarra, Andrea and Becattini, Federico and Seidenari, Lorenzo and Del Bimbo, Alberto
    conference: arXiv preprint arXiv2310.20593
-   pdf: ciamarra2023flodcast.pdf
+   pdf: assets/papers/ciamarra2023flodcast.pdf
    image: ciamarra2023flodcast.png
    bibtex: assets/bib/ciamarra2023flodcast.bib
 
  - title: Deepfake detection by exploiting surface anomalies the SurFake approach
    authors: Ciamarra, Andrea and Caldelli, Roberto and Becattini, Federico and Seidenari, Lorenzo and Del Bimbo, Alberto
    conference: 'Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision'
-   pdf: ciamarra2024deepfake.pdf
+   pdf: assets/papers/ciamarra2024deepfake.pdf
    image: ciamarra2024deepfake.png
    bibtex: assets/bib/ciamarra2024deepfake.bib
 
  - title: Addressing Limitations of State-Aware Imitation Learning for Autonomous Driving
    authors: Cultrera, Luca and Becattini, Federico and Seidenari, Lorenzo and Pala, Pietro and Del Bimbo, Alberto
    conference: IEEE Transactions on Intelligent Vehicles
-   pdf: cultrera2023addressing.pdf
+   pdf: assets/papers/cultrera2023addressing.pdf
    image: cultrera2023addressing.png
    bibtex: assets/bib/cultrera2023addressing.bib
 
  - title: Deep Variational Learning for 360° Adaptive Streaming
    authors: Guimard, Quentin and Sassatelli, Lucile and Marchetti, Francesco and Becattini, Federico and Seidenari, Lorenzo and Bimbo, Alberto Del
    conference: ACM Transactions on Multimedia Computing, Communications and Applications
-   pdf: guimard2024deep.pdf
+   pdf: assets/papers/guimard2024deep.pdf
    image: guimard2024deep.png
    bibtex: assets/bib/guimard2024deep.bib
 
