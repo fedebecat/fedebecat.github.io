@@ -10,7 +10,14 @@ layout: homepage
 <li>Fondamenti di Informatica (University of Florence)</li>
 
 <br>
-<h2 id="thesis" style="margin: 2px 0px -15px;">Master's Theses</h2>
+<h2 id="phd" style="margin: 2px 0px -15px;">PhD's Theses</h2>
+<br>
+<li> <b>Lorenzo Berlincioni</b> - <i>Generative and synthetic methods for data augmentation in deep learning</i></li>
+<li> <b>Francesco Marchetti</b> - <i>Trajectory and behavior forecasting in autonomous driving and robotics</i></li>
+<li> <b>Andrea Ciamarra</b> - <i>Leveraging deep scene features for vision tasks: from classification to forecasting</i></li>
+
+<br>
+<h2 id="master" style="margin: 2px 0px -15px;">Master's Theses</h2>
 
 <br>
 <!--2019-->
@@ -40,7 +47,7 @@ layout: homepage
 <li> <b>Andrea Leonardo</b> - <i>Analisi del volto tramite Event Cameras</i></li>
 
 <br>
-<h2 id="thesis" style="margin: 2px 0px -15px;">Bachelor's Theses</h2>
+<h2 id="bachelor" style="margin: 2px 0px -15px;">Bachelor's Theses</h2>
 <br>
 
 <!--2018
