@@ -54,8 +54,8 @@ for file in pdf_files:
     second_row = np.concatenate(page_imgs[3:5], axis=1)
     full_img[first_row.shape[0]:, first_big.shape[1]:first_big.shape[1]+second_row.shape[1]] = second_row
 
-    # resize full image to have height of 400
-    new_height = 400
+    # resize full image to have height of 600
+    new_height = 600
     scale = new_height / full_img.shape[0]
     full_img = cv2.resize(full_img, (0, 0), fx=scale, fy=scale)
 
