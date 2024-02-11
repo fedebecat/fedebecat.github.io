@@ -2,8 +2,6 @@
 layout: homepage
 ---
 
-UNDER CONSTRUCTION
-
 ## About Me
 
 Federico Becattini is a Tenure-Track Assistant Professor at the University of Siena, Italy. He obtained his Ph.D. in 2018 from the University of Florence under the supervision of Prof. Alberto Del Bimbo and Prof. Lorenzo Seidenari. His research interests mostly focus on Computer Vision and Deep Learning, working in several fields such as autonomous driving, human behavior understanding and  neuromorphic vision as well as cultural heritage and fashion recommendation. He has a strong interest towards memory-based neural networks, which he has employed in several international publications including top-tier conferences and journals such as CVPR, ECCV, IEEE TPAMI and ACM TOMM. On this subject, he also held tutorials at international conferences such as ICIAP 2022 and ACM MM 2022 and Ph.D. courses at the University of Florence and University of Siena.
