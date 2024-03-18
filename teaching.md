@@ -45,6 +45,7 @@ layout: homepage
 <li> <b>Andrea Puccia</b> - <i>Sistema di Raccomandazione Iterativa mediante Reinforcement Learning</i></li>
 <li> <b>Giovanna Scaramuzzino</b> - <i>Separazione di features con gradient reversal per retrieval interattivo di abbigliamento</i></li>
 <li> <b>Andrea Leonardo</b> - <i>Analisi del volto tramite Event Cameras</i></li>
+<li> <b>Marco Di Rienzo</b> - <i>Neural Networks for Image and Video Quality Enhancement</i></li>
 
 <br>
 <h2 id="bachelor" style="margin: 2px 0px -15px;">Bachelor's Theses</h2>
