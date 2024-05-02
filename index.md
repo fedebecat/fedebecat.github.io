@@ -15,10 +15,11 @@ Recently, he has also co-organized the workshops â€œFacial and Body Expressionsâ
 - **Neuromorphic Vision:** Event-based Face Analysis, Event Encoding, Detection and Tracking
 
 ## News
-
-- **[Feb. 2024]** New paper accepted in Pattern Recognition (Impact Factor 8)!
-- **[Jan. 2024]** New paper accepted in T-PAMI (Impact Factor 23.6)!
-- **[Nov. 2023]** Serving as an Area Chair for ACM MM 2024
+- **[May. 2024]** Two workshop proposals accepted at ECCV 2024: [NeVi](https://sites.google.com/view/nevi2024) and [T-CAP](https://sites.google.com/view/t-cap-2024/home)
+- **[May. 2024]** Serving as an Area Chair for [BMVC 2024](https://bmvc2024.org/)
+- **[Feb. 2024]** [New paper](https://www.sciencedirect.com/science/article/pii/S0031320324000888) accepted in Pattern Recognition (Impact Factor 8)!
+- **[Jan. 2024]** [New paper](https://www.computer.org/csdl/journal/tp/5555/01/10411104/1TV5rXjvEGs) accepted in T-PAMI (Impact Factor 23.6)!
+- **[Nov. 2023]** Serving as an Area Chair for [ACM MM 2024](https://2024.acmmm.org/)
 
 {% include_relative _includes/selected_publications.md %}
 
